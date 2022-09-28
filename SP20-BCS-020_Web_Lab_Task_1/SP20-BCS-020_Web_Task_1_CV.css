@@ -1,0 +1,329 @@
+*{
+	font-family: "Lucida Console", "Courier New", monospace;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.left
+{
+    background-color: #2C3E50;
+    height: 1160px;
+    width: 30%;
+    float: left; 
+}
+.MyImage
+{
+    height: 15%;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.right
+{
+    background-color: #E5E8E8;
+    height: 1160px;
+    width: 69.3%;
+    float:right ;
+    border-radius: 0.09cm; 
+}
+.Name
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.intro
+{
+    text-align: center;
+}
+.Education
+{
+    background-color: #229954;
+    width: 100%;
+    height: max-content;
+    height: 3%;
+    text-align: left;
+    margin-left: 0px;
+    padding-left: 0%;
+    margin-right: 10px;
+    color: antiquewhite;  
+}
+.Education1
+{
+    text-align: left;  
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin-top: 1%;
+}
+.Education2
+{
+    max-height: fit-content;
+    background-color: #5D6D7E;
+    height: fit-content;
+    color: antiquewhite;  
+    max-height: max-content; 
+}
+.Matric
+{
+    margin-top: 5px;
+    color: antiquewhite;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.Inter
+{
+    color: antiquewhite;
+    margin-left: 20px;
+}.BS
+{
+    color: antiquewhite;
+    margin-left: 20px;
+}
+.myintro
+{
+    background-color: #2ECC71 ;
+    height: auto;
+    width: 100%;
+    float:right ;
+    border-radius: 0.09cm;
+    text-align: justify;
+}
+.Contact
+{
+    background-color: #229954;
+    width: 100%;
+    height: 105%;
+    text-align: left;
+    margin-left: 0px;
+    padding-left: 0%;
+    margin-right: 10px;
+    color: antiquewhite;
+}
+.ContactH
+{
+    text-align: left;  
+    margin-left: 20px;
+    margin-top: 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin-bottom: 10%; 
+}
+
+.fa
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    margin-left: 20px;
+}
+.Address
+{
+    color: antiquewhite;
+    margin-left: 20px;
+}
+.Email
+{
+    color: antiquewhite;
+    margin-left: 20px;
+    margin-bottom: 10%; 
+}
+.ContactInfo
+{
+    background-color: #5D6D7E;
+    height: max-content;
+    color: antiquewhite;
+    padding-bottom: 10px;  
+}     
+.List
+{
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Social_Media
+{
+    background-color: #229954;
+    width: 100%;
+    height: 105%;
+    text-align: left;
+    margin-left: 0px;
+    padding-left: 0%;
+    margin-right: 10px;
+    color: antiquewhite;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.Socail
+{
+    text-align: left; 
+    margin-top: 1%;
+    margin-bottom: 4%; 
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    justify-content: space-between;
+}
+.SocialM
+{
+    background-color: #5D6D7E;
+    height: max-content;
+    color: antiquewhite;
+    justify-content: space-between;
+    margin-top: 7%;
+}
+.Languages
+{
+    background-color: #229954;
+    width: 100%;
+    height: 105%;
+    text-align: left;
+    margin-left: 0px;
+    padding-left: 0%;
+    margin-right: 10px;
+    color: antiquewhite;
+    margin-top: 5%;
+    
+}
+.Language
+{
+    margin-top: 1%;
+    text-align: left;  
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+.Lang
+{
+    background-color: #5D6D7E;
+    height: max-content;
+    color: antiquewhite;
+    justify-content: space-between;
+    margin-top: 7%;
+}
+.sskills
+{
+    background-color: #229954;
+    width: 100%;
+    height: fit-content;
+    text-align: left;
+    margin-left: 0px;
+    padding-left: 0%;
+    margin-right: 10px;
+    color: antiquewhite;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.sskills-1
+{
+    text-align: left;  
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    margin-top: 0%;
+}
+.sskills-2
+{
+    background-color: #5D6D7E;
+    height: max-content;
+    color: antiquewhite;
+    justify-content: space-between;
+    margin-top: 7%;
+}
+.Skills{
+
+    display: flex;
+    justify-content: space-between;
+}
+.skills3
+{
+    margin-left: 30px;
+}
+.HTML
+{
+    background-color: #009fd9;
+    color: #E5E8E8;
+    width: 82%;
+    height: 20px;
+}
+.CSS
+{
+    background-color: #009fd9;
+    color: #E5E8E8;
+    width: 79%;
+    height: 20px;
+}
+.JS
+{
+    background-color: #009fd9;
+    color: #E5E8E8;
+    width: 75%;
+    height: 20px;
+}
+.JQuery
+{
+    background-color: #009fd9;
+    color: #E5E8E8;
+    width: 77%;
+    height: 20px;
+}
+.MongoDB
+{
+    background-color: #009fd9;
+    color: #E5E8E8;
+    width: 80%;
+    height: 20px;
+}
+.C_Language
+{
+    background-color: #009fd9;
+    color: #E5E8E8;
+    width: 77%;
+    height: 20px;
+}
+.Oracle
+{
+    background-color: #009fd9;
+    color: #E5E8E8;
+    width: 71%;
+    height: 20px;
+}
+.Python
+{
+    background-color: #009fd9;
+    color: #E5E8E8;
+    width: 71%;
+    height: 20px;
+}
+.column1 
+{
+    float: left;
+    width: 50%;
+    margin-right: 0px;
+    padding-top: 0px;
+}
+.column2 
+{
+    float: right;
+    width: 50%;
+    margin-right: 0px;
+    padding-top: 0px;
+}
+.Interest
+{
+    padding-top: 0px;
+    margin-top: 0px;
+    text-align: left;  
+    margin-left: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0%;
+}
+.Ilist
+{
+    margin-top: 0%;
+    margin-left: 30px;
+    padding-top: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fa
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
